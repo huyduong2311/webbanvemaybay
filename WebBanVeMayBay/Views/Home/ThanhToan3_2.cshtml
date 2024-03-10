@@ -1,0 +1,84 @@
+﻿
+@{
+    ViewBag.Title = "ThanhToan3_2";
+}
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xác nhận thanh toán</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        .confirmation-container {
+            text-align: center;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .confirmation-icon {
+            font-size: 60px;
+            color: #28a745;
+        }
+
+        .confirmation-heading {
+            color: #28a745;
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+
+        .confirmation-message {
+            color: #333;
+            margin-bottom: 30px;
+        }
+
+        .payment-details {
+            text-align: left;
+            margin-bottom: 20px;
+        }
+
+        .home-link {
+            text-decoration: none;
+            background-color: #28a745;
+            color: #ffffff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+            .home-link:hover {
+                background-color: #218838;
+            }
+    </style>
+</head>
+<body>
+    <div class="confirmation-container">
+        <div class="confirmation-icon">&#10003;</div>
+        <h2 class="confirmation-heading">Đặt hàng thành công!</h2>
+        <p class="confirmation-message">Cảm ơn bạn đã đặt hàng. Vui lòng thực hiện chuyển khoản trong vòng 24 giờ để hoàn tất thanh toán.</p>
+
+        <div class="payment-details">
+            <h3>Thông tin chuyển khoản:</h3>
+            <p>Ngân hàng: MB Bank</p>
+            <p>Số tài khoản: 0562176774</p>
+            <p>Chủ tài khoản: Dương Quốc Huy</p>
+            <p>Số tiền cần chuyển: @ViewBag.list3[0][5]$ </p>
+            <p>Nội dung chuyển khoản: HọTên_Sốđiệnthoại_Mãvé</p>
+        </div>
+
+        <a href="~/Home/Index" class="home-link">Quay lại trang chủ</a>
+    </div>
+</body>
+</html>

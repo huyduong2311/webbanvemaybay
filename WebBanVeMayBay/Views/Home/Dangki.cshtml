@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "Dangki";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    @using (Html.BeginForm("Dangki", "Home", FormMethod.Post))
+    {
+        <section>
+            <div class="form-box">
+                <div class="form-value">
+                    <form id="register-form" method="post">
+                        <h2>Đăng ký</h2>
+                        <div class="inputbox">
+                            <ion-icon name="mail-outline"></ion-icon>
+                            <input type="text" id="new-username" name="Username" required>
+                            <label for="">Tên Đăng Nhập</label>
+                        </div>
+                        <div class="inputbox">
+                            <ion-icon name="lock-closed-outline"></ion-icon>
+                            <input type="password" id="new-password" name="Password" required>
+                            <label for="">Password</label>
+                        </div>
+                        <button>Đăng ký</button>
+                        @if (!string.IsNullOrEmpty(ViewBag.SuccessMessage))
+                        {
+                            <p class="text-success">@ViewBag.SuccessMessage</p>
+                        }
+                        @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+                        {
+                            <p class="text-danger">@ViewBag.ErrorMessage</p>
+                        }
+                        <p class="register-link">Đã có tài khoản? <a href="~/Home/Login">Đăng nhập</a></p>
+                    </form>
+                </div>
+            </div>
+        </section>
+        <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    }
+</body>
+</html>
+
+

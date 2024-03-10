@@ -1,0 +1,82 @@
+﻿
+@{
+    ViewBag.Title = "XemlaiVeBay";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xem lại Vé Máy Bay</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        section {
+            margin: 20px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Các Vé Máy Bay Đã Đặt</h1>
+    </header>
+
+    <section>
+        <h2>Thông tin Vé Máy Bay</h2>
+
+        <table>
+            <tr>
+                <th>Mã vé</th>
+                <th>Thông tin chuyến bay</th>
+                <th>Thông tin khách hàng</th>
+                <th>Trạng thái thanh toán</th>
+            </tr>
+            @foreach (var a in ViewBag.list)
+            {
+                <tr>
+                    <td>@a[0]</td>
+                    <td><a href="~/Home/ChiTietChuyenBay?id=@a[2]">Thông tin chi tiết</a></td>
+                    <td><a href="~/Home/ChiTietKhachHang?idkh=@a[1]">Thông tin chi tiết</a></td>
+                    <td>@a[3]</td>
+                </tr>
+            }
+                <!-- Thêm dòng này cho mỗi vé máy bay bạn muốn hiển thị -->
+            </table>
+    </section>
+
+</body>
+</html>

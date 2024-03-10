@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewBag.Title = "ChiTietKhachHang";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thông Tin Khách Hàng</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        section {
+            margin: 20px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Thông Tin Khách Hàng</h1>
+    </header>
+
+    <section>
+        <table>
+            <tr>
+                <th>Mã Khách Hàng</th>
+                <th>Tên Khách Hàng</th>
+                <th>Email</th>
+                <th>Số Điện Thoại</th>
+                <th>Quốc tịch</th>
+                <th>Giới tính</th>
+                <th>Ngày sinh</th>
+            </tr>
+            <!-- Thay đổi dữ liệu dưới đây theo thông tin thực tế của bạn -->
+            @foreach (var a in ViewBag.list)
+            {
+                <tr>
+                    <td>@a[0]</td>
+                    <td>@a[1]</td>
+                    <td>@a[2]</td>
+                    <td>@a[3]</td>
+                    <td>@a[4]</td>
+                    <td>@a[5]</td>
+                    <td>@a[6]</td>
+                </tr>
+
+            }
+            <!-- Thêm dòng này cho mỗi khách hàng bạn muốn hiển thị -->
+        </table>
+    </section>
+
+</body>
+</html>

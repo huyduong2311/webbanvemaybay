@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\taikhoan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\taikhoan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\home\\timkiemchuyenbaytheotpden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\home\\timkiemchuyenbaytheotpden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Dropbox\\PC\\Downloads\\TestcalculatorTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\Zalo Received Files\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\chuyenbayapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\chuyenbayapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\home\\chitietkhachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\home\\chitietkhachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\home\\chitietchuyenbay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\home\\chitietchuyenbay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\home\\xemlaivebay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\home\\xemlaivebay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\dondatve\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\dondatve\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\chuyenbay\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\chuyenbay\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\models\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\models\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\dondatve\\timveupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\dondatve\\timveupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\controllers\\dondatvecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\controllers\\dondatvecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\home\\thanhtoan3_2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\home\\thanhtoan3_2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\home\\thanhtoan3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\home\\thanhtoan3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\home\\thanhtoan2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\home\\thanhtoan2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\home\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\home\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\home\\management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\home\\management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\home\\dangki.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\home\\dangki.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\webbanvemaybay\\controllers\\chuyenbayapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053CABA7-5BDD-4AEB-BB3B-FB42D392048F}|WebBanVeMayBay\\WebBanVeMayBay.csproj|solutionrelative:webbanvemaybay\\controllers\\chuyenbayapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Zalo Received Files\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\admin\\Documents\\Zalo Received Files\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Zalo Received Files\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\admin\\Documents\\Zalo Received Files\\UnitTest1.cs",
+              "ViewState": "AQIAABoBAAAAAAAAAAAAAMoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:17:11.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestcalculatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Dropbox\\PC\\Downloads\\TestcalculatorTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\admin\\Dropbox\\PC\\Downloads\\TestcalculatorTest.cs",
+              "ToolTip": "C:\\Users\\admin\\Dropbox\\PC\\Downloads\\TestcalculatorTest.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\admin\\Dropbox\\PC\\Downloads\\TestcalculatorTest.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:15:47.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimKiemChuyenBayTheoTPDEN.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\TimKiemChuyenBayTheoTPDEN.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\Home\\TimKiemChuyenBayTheoTPDEN.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\TimKiemChuyenBayTheoTPDEN.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\Home\\TimKiemChuyenBayTheoTPDEN.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T16:08:33.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\TaiKhoan\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\TaiKhoan\\Index.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\TaiKhoan\\Index.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\TaiKhoan\\Index.cshtml",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-20T14:38:15.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChiTietChuyenBay.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\ChiTietChuyenBay.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\Home\\ChiTietChuyenBay.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\ChiTietChuyenBay.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\Home\\ChiTietChuyenBay.cshtml",
+              "ViewState": "AQIAANAAAAAAAAAAAAAAAF0AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-17T03:34:22.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChiTietKhachHang.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\ChiTietKhachHang.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\Home\\ChiTietKhachHang.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\ChiTietKhachHang.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\Home\\ChiTietKhachHang.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-21T13:50:13.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAN0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-17T02:45:17.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\KhachHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\KhachHang\\Index.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\KhachHang\\Index.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\KhachHang\\Index.cshtml",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-22T09:23:45.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\ChuyenBayAPI\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\ChuyenBayAPI\\Index.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\ChuyenBayAPI\\Index.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\ChuyenBayAPI\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-22T10:58:59.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\DonDatVe\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\DonDatVe\\Index.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\DonDatVe\\Index.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\DonDatVe\\Index.cshtml",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-22T09:23:57.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\ChuyenBay\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\ChuyenBay\\Index.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\ChuyenBay\\Index.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\ChuyenBay\\Index.cshtml",
+              "ViewState": "AQIAANsAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-17T03:29:35.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebBanVeMayBay\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAADwv28AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-17T03:30:16.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XemlaiVeBay.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\XemlaiVeBay.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\Home\\XemlaiVeBay.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\XemlaiVeBay.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\Home\\XemlaiVeBay.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-17T03:42:37.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Models\\DataModel.cs",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Models\\DataModel.cs",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Models\\DataModel.cs",
+              "RelativeToolTip": "WebBanVeMayBay\\Models\\DataModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-18T09:53:13.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TimVeUpdate.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\DonDatVe\\TimVeUpdate.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\DonDatVe\\TimVeUpdate.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\DonDatVe\\TimVeUpdate.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\DonDatVe\\TimVeUpdate.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-22T09:24:04.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DonDatVeController.cs",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Controllers\\DonDatVeController.cs",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Controllers\\DonDatVeController.cs",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Controllers\\DonDatVeController.cs",
+              "RelativeToolTip": "WebBanVeMayBay\\Controllers\\DonDatVeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-17T03:31:05.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "WebBanVeMayBay\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-17T03:31:04.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "WebBanVeMayBay\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-17T03:30:52.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThanhToan3_2.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\ThanhToan3_2.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\Home\\ThanhToan3_2.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\ThanhToan3_2.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\Home\\ThanhToan3_2.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-23T14:19:04.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ThanhToan2.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\ThanhToan2.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\Home\\ThanhToan2.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\ThanhToan2.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\Home\\ThanhToan2.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-17T03:21:11.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ThanhToan.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\ThanhToan.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\Home\\ThanhToan.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\ThanhToan.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\Home\\ThanhToan.cshtml",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAH0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-17T03:37:17.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Management.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\Management.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\Home\\Management.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\Management.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\Home\\Management.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-21T14:28:58.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ThanhToan3.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\ThanhToan3.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\Home\\ThanhToan3.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\ThanhToan3.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\Home\\ThanhToan3.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-17T03:21:07.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dangki.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\Dangki.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\Home\\Dangki.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\Dangki.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\Home\\Dangki.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-17T03:30:08.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "WebBanVeMayBay\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-11-17T03:30:11.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChuyenBayAPIController.cs",
+              "DocumentMoniker": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Controllers\\ChuyenBayAPIController.cs",
+              "RelativeDocumentMoniker": "WebBanVeMayBay\\Controllers\\ChuyenBayAPIController.cs",
+              "ToolTip": "C:\\Visual studio Huy\\BT \u0111\u1ED3 \u00E1n ph\u1EA7n m\u1EC1m\\WebBanVeMayBay\\WebBanVeMayBay\\Controllers\\ChuyenBayAPIController.cs",
+              "RelativeToolTip": "WebBanVeMayBay\\Controllers\\ChuyenBayAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T03:50:36.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

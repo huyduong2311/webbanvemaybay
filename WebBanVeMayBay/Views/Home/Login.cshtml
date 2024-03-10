@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    @using (Html.BeginForm("Login", "Home", FormMethod.Post))
+    {
+        <section>
+            <div class="form-box">
+                <div class="form-value">
+                    <form action="">
+                        <h2>Login</h2>
+                        <div class="inputbox">
+                            <ion-icon name="mail-outline"></ion-icon>
+                            <input type="text" id="username" name="username" required>
+                            <label for="">Tên Đăng Nhập</label>
+                        </div>
+                        <div class="inputbox">
+                            <ion-icon name="lock-closed-outline"></ion-icon>
+                            <input type="password" id="password" name="password" required>
+                            <label for="">Password</label>
+                        </div>
+                        <button>Đăng nhập</button>
+                        @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+                        {
+                            <p class="text-danger">@ViewBag.ErrorMessage</p>
+                        }
+                        <div class="register">
+                            <p>Bạn chưa có tài khoản? <a href="~/Home/Dangki">Đăng ký</a></p>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+        <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    }
+</body>
+</html>
+
+
